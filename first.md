@@ -10,4 +10,5 @@
 
 изменение ветки vet1
 строка в мастере для конфликта
-![test](404  Geekbrains - Google Chrome.jpg)
+
+![404 ошибка](404_Geekbrains-Google_Chrome.jpg)
