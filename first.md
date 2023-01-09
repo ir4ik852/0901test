@@ -12,3 +12,4 @@
 строка в мастере для конфликта
 
 ![404 ошибка](bin/404_Geekbrains-Google_Chrome.jpg)
+
